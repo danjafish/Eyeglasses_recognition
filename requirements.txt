@@ -1,0 +1,5 @@
+numpy
+os
+keras
+sys
+opencv-python
